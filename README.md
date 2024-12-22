@@ -15,7 +15,7 @@ This is a full-stack live chat application built with **Socket.IO** for real-tim
 
 ---
 ## DEMO IMAGE
-![image](image.png)
+![image](image.jpg)
 ## Tech Stack
 
 ### Frontend
